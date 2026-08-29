@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher, <a href='https://www.ucd.ie/civileng/'>School of Civil Engineering</a>, University College Dublin.
+subtitle: Postdoctoral Researcher, <a href='https://www.ucd.ie/civileng/'> School of Civil Engineering </a>, University College Dublin.
 
 profile:
   align: right
